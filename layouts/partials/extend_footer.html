@@ -1,4 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
 <script>
   Fancybox.bind('[data-fancybox]', {
     // Your custom options
@@ -14,5 +16,25 @@
       img.parentNode.insertBefore(link, img);
       link.appendChild(img);
     }
+  });
+
+  // Initialize Swiper
+  const swiper = new Swiper('.swiper', {
+    // Optional parameters
+    loop: true,
+    spaceBetween: 20,
+    autoHeight: true,
+
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+
+    // Navigation arrows
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
   });
 </script>

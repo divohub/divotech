@@ -10,6 +10,13 @@
     <lastBuildDate>Tue, 13 Feb 2024 10:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Joy-Con</title>
+      <link>http://localhost:1313/tags/joy-con/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/joy-con/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
@@ -24,10 +31,45 @@
       <description></description>
     </item>
     <item>
+      <title>Modchip</title>
+      <link>http://localhost:1313/tags/modchip/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/modchip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nintendo Switch</title>
+      <link>http://localhost:1313/tags/nintendo-switch/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/nintendo-switch/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OpenWRT</title>
       <link>http://localhost:1313/tags/openwrt/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
       <guid>http://localhost:1313/tags/openwrt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orange Pi</title>
+      <link>http://localhost:1313/tags/orange-pi/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/orange-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PicoFly</title>
+      <link>http://localhost:1313/tags/picofly/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/picofly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart TV</title>
+      <link>http://localhost:1313/tags/smart-tv/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/smart-tv/</guid>
       <description></description>
     </item>
     <item>
@@ -45,6 +87,13 @@
       <description></description>
     </item>
     <item>
+      <title>YouTube 4K</title>
+      <link>http://localhost:1313/tags/youtube-4k/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/youtube-4k/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Безопасность</title>
       <link>http://localhost:1313/tags/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
@@ -52,10 +101,38 @@
       <description></description>
     </item>
     <item>
+      <title>Гейминг</title>
+      <link>http://localhost:1313/tags/%D0%B3%D0%B5%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%B3%D0%B5%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Железо</title>
+      <link>http://localhost:1313/tags/%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Замена АКБ</title>
       <link>http://localhost:1313/tags/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B0%D0%BA%D0%B1/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
       <guid>http://localhost:1313/tags/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B0%D0%BA%D0%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Обман</title>
+      <link>http://localhost:1313/tags/%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Развод</title>
+      <link>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4/</guid>
       <description></description>
     </item>
     <item>
@@ -70,6 +147,27 @@
       <link>http://localhost:1313/tags/%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80%D1%8B/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
       <guid>http://localhost:1313/tags/%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Сборка ПК</title>
+      <link>http://localhost:1313/tags/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BF%D0%BA/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BF%D0%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>СВАО</title>
+      <link>http://localhost:1313/tags/%D1%81%D0%B2%D0%B0%D0%BE/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D1%81%D0%B2%D0%B0%D0%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Честность</title>
+      <link>http://localhost:1313/tags/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
       <description></description>
     </item>
     <item>

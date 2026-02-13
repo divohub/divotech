@@ -10,6 +10,20 @@
     <lastBuildDate>Tue, 13 Feb 2024 10:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%D1%81%D0%B2%D0%B0%D0%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Smart TV снова Умный: Интернет без границ на Orange Pi</title>
+      <link>http://localhost:1313/posts/smart-tv-vpn-orange-pi/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/smart-tv-vpn-orange-pi/</guid>
+      <description>Как заставить YouTube и Netflix работать на телевизоре LG/Samsung и Apple TV без тормозов. Решение с Orange Pi Zero 3.</description>
+    </item>
+    <item>
+      <title>Как Обманывают Сервисы: Откровения Мастера</title>
+      <link>http://localhost:1313/posts/honest-master-vs-scam-services/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/honest-master-vs-scam-services/</guid>
+      <description>Почему нельзя верить объявлениям на подъезде? Как &amp;#39;бесплатный мастер&amp;#39; превращается в чек на 15000 рублей. Моя история ухода из системы.</description>
+    </item>
+    <item>
       <title>Сборка ПК Честными Руками: От офиса до 8K-Гейминга</title>
       <link>http://localhost:1313/posts/pc-builds-honest-prices/</link>
       <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>

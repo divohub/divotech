@@ -35,7 +35,9 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script>
+</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -137,18 +139,64 @@
                 </span>
             </a>
         </div>
+
+        
+        <div style="margin-top: 2rem; width: 100%;">
+            <h3 style="margin-bottom: 1rem; font-size: 1.2rem; opacity: 0.8;">🛠️ Мои работы в СВАО</h3>
+            <div class="home-gallery">
+                <a href="/images/пример сборок.png" data-fancybox="homepage-gallery" data-caption="Сборка ПК">
+                    <img src="/images/пример сборок.png" alt="Сборка ПК">
+                </a>
+                <a href="/images/делаю свитч.png" data-fancybox="homepage-gallery" data-caption="Чиповка Switch">
+                    <img src="/images/делаю свитч.png" alt="Чиповка Switch">
+                </a>
+                <a href="/images/настраиваю роутер.png" data-fancybox="homepage-gallery" data-caption="Настройка Роутера">
+                    <img src="/images/настраиваю роутер.png" alt="Настройка Роутера">
+                </a>
+                <a href="/images/фотка селфи с комплектующими имиджевое.png" data-fancybox="homepage-gallery" data-caption="Комплектующие">
+                    <img src="/images/фотка селфи с комплектующими имиджевое.png" alt="Комплектующие">
+                </a>
+            </div>
+        </div>
+
+        <style>
+            .home-gallery {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+                gap: 10px;
+                width: 100%;
+                max-width: 600px;
+                margin: 0 auto;
+            }
+            .home-gallery a {
+                display: block;
+                overflow: hidden;
+                border-radius: 8px;
+            }
+            .home-gallery img {
+                width: 100%;
+                height: 140px;
+                object-fit: cover;
+                border: 1px solid var(--border);
+                transition: transform 0.2s;
+            }
+            .home-gallery img:hover {
+                transform: scale(1.05);
+            }
+        </style>
+
     </div>
 </div>
 
     </main>
-    
-<footer class="footer">
-        <span>© 2024 Федор Купряков (Самозанятый)</span> · 
-
+    <footer class="footer">
+    <span>&copy; 2026 <a href="http://localhost:1313/">Федор Купряков</a></span>
     <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        <a href="https://t.me/httpdivo" rel="noopener noreferrer" target="_blank">Telegram</a> |
+        <a href="tel:+79156130390">Позвонить</a>
+    </span>
+    <span>
+        Сделано с ❤️ в СВАО
     </span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
@@ -158,14 +206,9 @@
 </a>
 
 <script>
-    let menu = document.getElementById('menu');
+    let menu = document.getElementById('menu')
     if (menu) {
-        
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
-        if (scrollPosition) {
-            menu.scrollLeft = parseInt(scrollPosition, 10);
-        }
-        
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
@@ -202,19 +245,6 @@
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>
