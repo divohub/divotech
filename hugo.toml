@@ -1,0 +1,63 @@
+baseURL = "https://divotech.pro/"
+languageCode = "ru-RU"
+title = "DivoTech.pro — Честный мастер СВАО"
+theme = "PaperMod"
+
+# Enable robots.txt
+enableRobotsTXT = true
+
+# Copyright
+copyright = "© 2024 Федор Купряков (Самозанятый)"
+
+[params]
+  defaultTheme = "dark"
+  description = "Ремонт компьютеров, сборка ПК, настройка VPN и серверов в Свиблово и СВАО. Честные цены, договор, гарантия."
+  author = "Федор Купряков"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  displayFullLangName = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Федор Купряков"
+    subtitle = "Компьютерный мастер / Сборка ПК / Настройка сетей и VPN 🛡️\nЖиву в Свиблово. Работаю честно. Официально самозанятый."
+    # imageUrl = "https://example.com/path/to/avatar.jpg" # Add a placeholder or real URL later
+    imageTitle = "Федор Купряков"
+    imageWidth = 120
+    imageHeight = 120
+    buttons = [
+        { name = "📞 Позвонить", url = "tel:+79156130390" },
+        { name = "💬 Telegram", url = "https://t.me/httpdivo" },
+        { name = "🛠️ Услуги и Цены", url = "/services/" },
+        { name = "📝 Блог (SEO)", url = "/posts/" }
+    ]
+
+  [params.socialIcons]
+    Telegram = "https://t.me/httpdivo"
+    Phone = "tel:+79156130390"
+    # Email = "mailto:fedor@divotech.pro"
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Услуги"
+    url = "/services/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Блог"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "Обо мне"
+    url = "/about/"
+    weight = 30
+
+[markup.goldmark.renderer]
+  unsafe = true
