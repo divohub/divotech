@@ -37,10 +37,13 @@ copyright = "© 2024 Федор Купряков (Самозанятый)"
         { name = "📝 Блог (SEO)", url = "/posts/" }
     ]
 
-  [params.socialIcons]
-    Telegram = "https://t.me/httpdivo"
-    Phone = "tel:+79156130390"
-    # Email = "mailto:fedor@divotech.pro"
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/httpdivo"
+
+  [[params.socialIcons]]
+    name = "phone"
+    url = "tel:+79156130390"
 
 [menu]
   [[menu.main]]
