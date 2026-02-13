@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DivoTech.pro — Честный мастер СВАО</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on DivoTech.pro — Честный мастер СВАО</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>ru-RU</language>
+    <copyright>2024 Федор Купряков (Самозанятый)</copyright>
+    <lastBuildDate>Tue, 13 Feb 2024 10:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VPN на роутере: Свобода для Smart TV и PlayStation</title>
+      <link>http://localhost:1313/posts/kak-nastroit-vpn-na-routere-v-sviblovo/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/kak-nastroit-vpn-na-routere-v-sviblovo/</guid>
+      <description>Почему VPN на телефоне — это полумера. Как заставить телевизор показывать YouTube без тормозов. Личный опыт настройки Keenetic и ASUS.</description>
+    </item>
+    <item>
+      <title>VPN: Почему подписки — это развод?</title>
+      <link>http://localhost:1313/posts/lichniy-vpn-server-protiv-podpisok-chto-vybrat/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lichniy-vpn-server-protiv-podpisok-chto-vybrat/</guid>
+      <description>Личный VPN-сервер против подписок. VPS, DigitalOcean, Xray.</description>
+    </item>
+    <item>
+      <title>Батарейка вздулась? Тихий убийца MacBook</title>
+      <link>http://localhost:1313/posts/pochemu-greetsya-macbook-zamena-termo-pasty-svao/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/pochemu-greetsya-macbook-zamena-termo-pasty-svao/</guid>
+      <description>Греется MacBook Pro/Air? Узнайте, почему это происходит и как часто нужно менять батарею в Свиблово.</description>
+    </item>
+    <item>
+      <title>Как Обманывают Сервисы: Откровения Мастера</title>
+      <link>http://localhost:1313/posts/honest-master-vs-scam-services/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/honest-master-vs-scam-services/</guid>
+      <description>Почему нельзя верить объявлениям на подъезде? Как &amp;#39;бесплатный мастер&amp;#39; превращается в чек на 15000 рублей. Моя история ухода из системы.</description>
+    </item>
+    <item>
+      <title>Сборка ПК Честными Руками: От офиса до 8K-Гейминга</title>
+      <link>http://localhost:1313/posts/pc-builds-honest-prices/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/pc-builds-honest-prices/</guid>
+      <description>Как собрать компьютер, который не греется и не шумит, по честной цене в Свиблово. Подбор, сборка, настройка.</description>
+    </item>
+    <item>
+      <title>Чиповка и Ремонт Nintendo Switch в СВАО</title>
+      <link>http://localhost:1313/posts/nintendo-switch-modding-repair/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/nintendo-switch-modding-repair/</guid>
+      <description>Установка чипов PicoFly на Switch OLED и Lite. Ремонт дрифта стиков Joy-Con, замена аккумулятора и корпуса.</description>
+    </item>
+  </channel>
+</rss>

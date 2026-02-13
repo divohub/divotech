@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DivoTech.pro — Честный мастер СВАО</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DivoTech.pro — Честный мастер СВАО</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>ru-RU</language>
+    <copyright>2024 Федор Купряков (Самозанятый)</copyright>
+    <lastBuildDate>Tue, 13 Feb 2024 10:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VPN на роутере: Свобода для Smart TV и PlayStation</title>
+      <link>http://localhost:1313/posts/kak-nastroit-vpn-na-routere-v-sviblovo/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/kak-nastroit-vpn-na-routere-v-sviblovo/</guid>
+      <description>Почему VPN на телефоне — это полумера. Как заставить телевизор показывать YouTube без тормозов. Личный опыт настройки Keenetic и ASUS.</description>
+    </item>
+    <item>
+      <title>VPN: Почему подписки — это развод?</title>
+      <link>http://localhost:1313/posts/lichniy-vpn-server-protiv-podpisok-chto-vybrat/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lichniy-vpn-server-protiv-podpisok-chto-vybrat/</guid>
+      <description>Личный VPN-сервер против подписок. VPS, DigitalOcean, Xray.</description>
+    </item>
+    <item>
+      <title>Батарейка вздулась? Тихий убийца MacBook</title>
+      <link>http://localhost:1313/posts/pochemu-greetsya-macbook-zamena-termo-pasty-svao/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/pochemu-greetsya-macbook-zamena-termo-pasty-svao/</guid>
+      <description>Греется MacBook Pro/Air? Узнайте, почему это происходит и как часто нужно менять батарею в Свиблово.</description>
+    </item>
+    <item>
+      <title>Как Обманывают Сервисы: Откровения Мастера</title>
+      <link>http://localhost:1313/posts/honest-master-vs-scam-services/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/honest-master-vs-scam-services/</guid>
+      <description>Почему нельзя верить объявлениям на подъезде? Как &amp;#39;бесплатный мастер&amp;#39; превращается в чек на 15000 рублей. Моя история ухода из системы.</description>
+    </item>
+    <item>
+      <title>Обо мне: Путь Честного Мастера</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;привет-я-федор-купряков&#34;&gt;Привет! Я Федор Купряков.&lt;/h1&gt;
+&lt;p&gt;Я живу в Свиблово и работаю &lt;strong&gt;частным компьютерным мастером&lt;/strong&gt;.
+Моя философия проста: &lt;strong&gt;&amp;ldquo;Делай как для себя&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Федор Купряков&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/img1.png&#34;&gt;
+&lt;em&gt;(Если это не мое фото, поменяйте файл img1.png в папке static/images)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;почему-я-ушел-из-фирм&#34;&gt;Почему я ушел из &amp;ldquo;Фирм&amp;rdquo;?&lt;/h3&gt;
+&lt;p&gt;Я начинал свой путь в крупных сервисных центрах Москвы. Вы наверняка видели их объявления: &lt;em&gt;&amp;ldquo;Мастер приедет через 15 минут, диагностика бесплатно&amp;rdquo;&lt;/em&gt;.
+Изнутри эта кухня выглядит страшно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Задача мастера — не починить, а продать.&lt;/strong&gt; Вам ставят Windows за 500 рублей, а потом требуют 15 000 за &amp;ldquo;настройку драйверов&amp;rdquo; и &amp;ldquo;чистку реестра&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обман на деталях.&lt;/strong&gt; Вместо новой запчасти ставят б/у с AliExpress, а клиенту говорят, что это &amp;ldquo;Оригинал с завода&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Накрутка чека.&lt;/strong&gt; Мастеров штрафуют, если они приносят мало денег. Поэтому они вынуждены врать про &amp;ldquo;сгоревшие мосты&amp;rdquo; и &amp;ldquo;вирусы-майнеры&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Я не смог так работать.&lt;/strong&gt;
+Я люблю технику. Я люблю, когда сломанная вещь оживает. Я получаю кайф, когда клиент доволен и советует меня друзьям.
+Поэтому я ушел и стал работать на себя.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Сборка ПК Честными Руками: От офиса до 8K-Гейминга</title>
+      <link>http://localhost:1313/posts/pc-builds-honest-prices/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/pc-builds-honest-prices/</guid>
+      <description>Как собрать компьютер, который не греется и не шумит, по честной цене в Свиблово. Подбор, сборка, настройка.</description>
+    </item>
+    <item>
+      <title>Сервис. Услуги. Прайс.</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>Прайс-лист на ремонт компьютеров, сборку ПК и настройку сетей в Свиблово и СВАО.</description>
+    </item>
+    <item>
+      <title>Чиповка и Ремонт Nintendo Switch в СВАО</title>
+      <link>http://localhost:1313/posts/nintendo-switch-modding-repair/</link>
+      <pubDate>Tue, 13 Feb 2024 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/nintendo-switch-modding-repair/</guid>
+      <description>Установка чипов PicoFly на Switch OLED и Lite. Ремонт дрифта стиков Joy-Con, замена аккумулятора и корпуса.</description>
+    </item>
+  </channel>
+</rss>
