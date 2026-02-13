@@ -1,0 +1,29 @@
+<div class="gallery">
+  {{ range $img := split .Inner "\n" }}
+    {{ if ne $img "" }}
+      <img src="{{ $img }}" alt="{{ $img }}">
+    {{ end }}
+  {{ end }}
+</div>
+
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+.gallery img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .gallery img {
+    width: calc(50% - 10px);
+  }
+}
+</style>
