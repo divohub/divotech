@@ -1,0 +1,18 @@
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script>
+  Fancybox.bind('[data-fancybox]', {
+    // Your custom options
+  });
+
+  // Automatically wrap markdown images with a link to the image itself so Fancybox works on all post images
+  document.querySelectorAll('.post-content img').forEach(img => {
+    if (!img.parentNode.matches('a')) {
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.setAttribute('data-fancybox', 'gallery');
+      link.setAttribute('data-caption', img.alt);
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    }
+  });
+</script>

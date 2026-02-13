@@ -1,7 +1,9 @@
 <div class="gallery">
   {{ range $img := split .Inner "\n" }}
     {{ if ne $img "" }}
-      <img src="{{ $img }}" alt="{{ $img }}">
+      <a href="{{ $img }}" data-fancybox="gallery" data-caption="{{ $img | path.Base }}">
+        <img src="{{ $img }}" alt="{{ $img | path.Base }}">
+      </a>
     {{ end }}
   {{ end }}
 </div>
@@ -14,16 +16,24 @@
   gap: 10px;
   margin: 10px 0;
 }
-.gallery img {
+.gallery a {
+  display: block;
   width: 100%;
   max-width: 450px;
-  height: auto;
-  border-radius: 8px;
-  object-fit: cover;
 }
 @media (min-width: 768px) {
-  .gallery img {
+  .gallery a {
     width: calc(50% - 10px);
   }
+}
+.gallery img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  transition: transform 0.2s;
+}
+.gallery img:hover {
+  transform: scale(1.05);
 }
 </style>
